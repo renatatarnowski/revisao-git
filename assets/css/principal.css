@@ -2,3 +2,9 @@ body{
     color: #d8d8d8;
     background-color: #484848;
 }
+#logo img{
+    width: 200px;
+    border:20px solid #d8d8d8;
+    border-radius: 30px;
+
+}
